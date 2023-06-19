@@ -5,4 +5,5 @@ fn main() {
     println!("The key is '{}' and the value is '{}'", key, value);
     let mut key = arguments.next().unwrap();
     print!( "The key is '{}' and the value is '{}'", key, value);
+    
 }

@@ -6,5 +6,4 @@ fn main() {
     let mut key2 = arguments.next().unwrap();
     print!( "The key is '{}' and the value is '{}'", key2, value1);
     
-
 }
